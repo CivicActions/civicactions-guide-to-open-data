@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* Organizations
-* Events
+* [Organizations](organizations.md)
+* [Events](events.md)
+* [Contribute](contribute.md)
 
