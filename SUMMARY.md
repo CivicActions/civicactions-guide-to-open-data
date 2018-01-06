@@ -8,6 +8,7 @@
 * [Organizations](organizations.md)
 * [Events](events.md)
 * [Glossary](glossary.md)
-* [Contribute](contribute.md)
+* [Acknowledgements](acknowledgements.md)
+* [Resources](resources.md)
 * [Acknowledgements](acknowledgements.md)
 
