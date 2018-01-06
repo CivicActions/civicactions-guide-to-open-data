@@ -1,5 +1,7 @@
 # Principles
 
+Open data principles from various sources.
+
 ## 8 Principles of Open Government Data
 
 Government data shall be considered open if it is made public in a way that complies with the principles below:
@@ -52,7 +54,7 @@ Data should be made available at a stable Internet location indefinitely and in 
 
 ### Trusted
 
-The Association of Computing Machinery’s [Recommendation on Open Government](http://www.acm.org/public-policy/open-government) \(February 2009\) stated, “Published content should be digitally signed or include attestation of publication/creation date, authenticity, and integrity.” Digital signatures help the public validate the source of the data they find so that they can trust that the data has not been modified since it was published. Since provenance is for originally-published documents, it is_not_a reason to prevent the public from modifying government documents.
+The Association of Computing Machinery’s [Recommendation on Open Government](http://www.acm.org/public-policy/open-government) \(February 2009\) stated, “Published content should be digitally signed or include attestation of publication/creation date, authenticity, and integrity.” Digital signatures help the public validate the source of the data they find so that they can trust that the data has not been modified since it was published. Since provenance is for originally-published documents, it is\_not\_a reason to prevent the public from modifying government documents.
 
 ### A Presumption of Openness
 
