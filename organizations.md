@@ -6,6 +6,12 @@ The Center for Open Data Enterprise is an independent nonprofit organization tha
 
 [opendataenterprise.org](http://opendataenterprise.org/)
 
+## Civic Analytics Network
+
+The Ash Center for Democratic Governance and Innovation at Harvard Kennedy School \(HKS\) has been awarded a two year grant by the Laura and John Arnold Foundation to establish and support a national peer network of urban Chief Data Officers \(CDOs\).  The network will collaborate on shared projects that advance the use of data visualization and predictive analytics in solving important urban problems related to economic opportunity, poverty reduction, and addressing the root causes of social problems of equity and opportunity.  This grant will assist in transforming the way local governments deliver services and set urban policy by improving their access to and use of new technologies and their focus on cross agency and collaborative solutions. Our sharing of lessons both within the network and to a wider policy audience will accelerate the rate of adoption of these data-driven approaches. 
+
+[datasmart.ash.harvard.edu/civic-analytics-network](http://datasmart.ash.harvard.edu/civic-analytics-network)
+
 ## Data Coalition
 
 The Data Coalition advocates on behalf of the private sector and the public interest for the publication of government information as standardized, machine-readable data.

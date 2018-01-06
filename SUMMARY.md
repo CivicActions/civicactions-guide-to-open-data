@@ -1,8 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [Definitions](definitions.md)
+* [Principles](principles.md)
+* [Licensing](licensing.md)
 * [Organizations](organizations.md)
 * [Events](events.md)
+* [Glossary](glossary.md)
 * [Contribute](contribute.md)
 
