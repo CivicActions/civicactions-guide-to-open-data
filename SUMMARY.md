@@ -9,6 +9,6 @@
 * [Events](events.md)
 * [Glossary](glossary.md)
 * [Acknowledgements](acknowledgements.md)
-* [Resources](resources.md)
 * [Acknowledgements](acknowledgements.md)
+* [Resources](resources.md)
 
