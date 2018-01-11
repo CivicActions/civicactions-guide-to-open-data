@@ -14,3 +14,15 @@ CKAN is an open-source DMS \(data management system\) for powering data hubs and
 
 [getdkan.org](https://getdkan.org)
 
+## Visualizations
+
+* D3
+
+## GIS
+
+
+
+## Databases
+
+
+
