@@ -6,3 +6,7 @@ Open Data Day is an annual celebration of open data all over the world. Groups f
 
 [opendataday.org](http://opendataday.org/)
 
+## DKAN Open Data Summit
+
+[getdkan.org/summit](https://getdkan.org/summit)
+
