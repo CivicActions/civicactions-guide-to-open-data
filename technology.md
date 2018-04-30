@@ -17,10 +17,22 @@ CKAN is an open-source DMS \(data management system\) for powering data hubs and
 ## Visualizations
 
 * D3
+* GitHub
+* Plotly
+* Tableau Public
+* Google Fusion Tables
+* icharts
+* RAW
+* Infogram
+* Piktochart
+
+### Spatial
+
+* Open Street Map
+* Open Heat Map
+* Carto
 
 ## GIS
-
-
 
 ## Databases
 
